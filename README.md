@@ -1,6 +1,6 @@
 # 🤖 LangGraph RAG Agentic Workflows
 
-A conversational AI agent built with **LangGraph** that combines Retrieval-Augmented Generation (RAG) with local mathematical tool execution. The agent can answer domain-specific questions from a local database and perform precise calculations—all visualised dynamically with a live Streamlit trace UI.
+A conversational AI agent built with **LangGraph** that combines Retrieval-Augmented Generation (RAG) with local mathematical tool execution. The agent can answer domain-specific questions from a local database and perform precise calculations all visualised dynamically with a live Streamlit trace UI.
 
 ---
 
